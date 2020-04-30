@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Calibri, sans-serif;
+}
+
+h1,
+h2 {
+  display: inline-block;
+  text-align: center;
+  height: 5vh;
+  width: 100vw;
+}
+
+button {
+  height: 50px;
+  width: 100px;
+  background-color: #C0A4FA;
+}
+
+#button-game {
+  background-color: #95D8F7;
+  height: 80vh;
+  width: 80vw;
+  margin: 0 auto;
+}
